@@ -73,7 +73,7 @@ These tables enable multi-dimensional analysis across **time, customers, product
 
 ### 1️⃣ Executive Overview
 
-![Executive Overview](images/1_Executive%20Overview.png)
+![Executive Overview](images/1_Executive%20Overview.png%20)
 
 The **Executive Overview** page provides a high-level summary of the overall financial performance.
 
